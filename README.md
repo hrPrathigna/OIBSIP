@@ -1,4 +1,8 @@
 # OIBSIP
+#Task1: IRIS FLOWER CLASSIFICATION
+
+The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements.Here we used machine learning concept to classify the Iris flowers from these measurements into their respective species.The dataset used is Iris.csv
+
 
 #TASK5 : SALES PREDICTION USING PYTHON
 
